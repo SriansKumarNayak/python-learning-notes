@@ -1,20 +1,47 @@
 # Python Learning Notes 🐍
 
-This repository contains my daily Python learning notes.
+This repository contains my daily Python learning journey with notes and practice.
+
+---
 
 ## 📅 Progress
 
-- Day 1: Basics
-- Day 2: Strings
-- Day 3: Conditional Statements
+- Day 1: Python Basics  
+- Day 2: Strings & Input/Output  
+- Day 3: Conditional Statements  
+- Day 4: Loops  
+
+---
 
 ## 🚀 Goal
 
-- Learn Python step by step
-- Build strong fundamentals
-- Maintain consistency
+- Build strong Python fundamentals  
+- Practice daily and stay consistent  
+- Prepare for advanced projects and AIML  
 
-## 📌 Tools Used
+---
 
-- Python
-- Git & GitHub
+## 📌 What I’m Doing
+
+- Writing clean notes daily  
+- Uploading to 0  
+- Practicing concepts with examples  
+
+---
+
+## 🛠️ Tools Used
+
+- Python 🐍  
+- Git & GitHub 💻  
+
+---
+
+## 🔥 Future Plan
+
+- Functions  
+- OOP  
+- File Handling  
+- Projects with JSON  
+- Real-world systems  
+
+---
