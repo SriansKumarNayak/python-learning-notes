@@ -17,6 +17,11 @@ This repository contains my daily Python learning journey with notes and practic
 - ✅ Day 9: Practice Problems  
 - ✅ Day 10: Logic Building  
 - ✅ Day 11: OOP (Inheritance, Overriding, super())  
+- ✅ Day 12: Constructor & Encapsulation  
+- ✅ Day 13: Encapsulation (Deep), Polymorphism  
+- ✅ Day 14: File Handling (Basics)  
+- ✅ Day 15: File Reading Methods  
+- ✅ Day 16: Exception Handling  
 
 ---
 
@@ -46,7 +51,7 @@ This repository contains my daily Python learning journey with notes and practic
 ## 🔥 Future Plan
 
 - Advanced OOP  
-- File Handling  
+- File Handling (Advanced)  
 - Projects with JSON  
 - Real-world systems  
 - Data Structures & Algorithms  
@@ -61,5 +66,5 @@ This repository contains my daily Python learning journey with notes and practic
 
 ## 🚀 Status
 
-🔥 Day 11 Completed  
+🔥 Day 16 Completed  
 🔥 Consistency Streak ON
